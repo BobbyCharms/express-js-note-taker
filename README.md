@@ -5,7 +5,7 @@
 ## Description
 This application allows you to to use API requests via routes to get / post notes into an application. 
 
-![Alt text](../../../Desktop/Screen%20Shot%202023-03-20%20at%206.36.04%20AM.png)
+![Alt text](images/Screen%20Shot%202023-03-20%20at%206.36.04%20AM.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ This application allows you to to use API requests via routes to get / post note
 - [Questions](#questions)
 
 ## Installation
-Navigate to site: (placeholder). You can then use the app from there. 
+Navigate to site: [here](https://charming-express-js-note-taker.herokuapp.com/). You can then use the app from there. 
 
 ## Usage
 Click "Get Started". You can then write in a note, save it, and access the note from the left hand column.
