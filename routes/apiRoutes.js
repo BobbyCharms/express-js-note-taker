@@ -14,7 +14,7 @@ apiRouter.post('/notes', (req, res) => {
     console.log(req.body);
     res.json(req.body);
     const { title, text } = req.body
-    const newNote = { title, text, uuid }
+    const newNote = { title, text, id: uuid.v4() }
     notes.push(newNote)
     const toDoList = JSON.stringify(notes , null, 2);
     fs.writeFile('./db/db.json', toDoList , (err) =>
