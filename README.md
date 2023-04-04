@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This application allows you to to use API requests via routes to get / post notes into an application. Check out a walkthrough video here: https://drive.google.com/file/d/1rW5voy71gaFEYMSw_bNe-5PuTILRG_lB/viewLinks to an external site.
+This application allows you to to use API requests via routes to get / post notes into an application. Check out a walkthrough video here: https://drive.google.com/file/d/1rW5voy71gaFEYMSw_bNe-5PuTILRG_lB/view.
 
 ![Alt text](images/Screen%20Shot%202023-03-20%20at%206.36.04%20AM.png)
 
